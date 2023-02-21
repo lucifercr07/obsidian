@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "8a89085a2db5a7e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "47f9a35a87eef6b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18b7217e4f2e3e15",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9eb9f31e445fcdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "694ab95814a18ac1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d78cf8e477c7ae74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b1088db6695d901",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9907f21c59d4fdb1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "891a52d7471ef04e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6be8c5f0b70fa457",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b48b3268965d919",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0e6478a2a620002",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a7a04219391d412",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7a4ff09f0d944e4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "18b7217e4f2e3e15",
+  "lastOpenFiles": [
+    "Binary Trees/Iterative traversals/Level Order Traversal.md",
+    "Binary Trees/Untitled.md"
+  ]
+}
