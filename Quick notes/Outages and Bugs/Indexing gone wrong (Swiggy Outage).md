@@ -1,0 +1,3 @@
+- https://bytes.swiggy.com/behindthebug-indexing-gone-wrong-6b4d682fd805
+- Interesting notes around how the cardinality of index in composite index can affect the performance of query. Also how the operators involved in query matter when using composite indexes.
+- `when a condition has equality checks (=) and range/inequality checks (>, >=, <, <=, IN), then the columns involved in the equality checks should be first in the index and the inequality columns afterward.`

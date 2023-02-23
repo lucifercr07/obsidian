@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "550ba9a8edb5e4e3",
+        "id": "f869ded17d14e22d",
         "type": "tabs",
         "children": [
           {
-            "id": "292fe5f8f2b1a6cc",
+            "id": "cddafeb5a9a5bce1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO Read.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TO Read.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "292fe5f8f2b1a6cc",
+  "active": "cddafeb5a9a5bce1",
   "lastOpenFiles": [
+    "TO Read.md",
+    "Outages and Bugs/Indexing gone wrong (Swiggy Outage).md",
     "How does the \"final\" keyword in Java work?.md",
     "Tech behind GitHub’s new code search/The technology behind GitHub’s new code search.md",
     "Tech behind GitHub’s new code search/Pasted image 20230221174445.png",
