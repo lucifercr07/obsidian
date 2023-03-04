@@ -11,11 +11,26 @@
             "id": "a1aaae9c76bc3192",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Order by with multiple columns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "675e57722dae6427",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Order by with multiple columns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Order by with multiple columns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Order by with multiple columns.md"
+              }
             }
           }
         ]
@@ -138,6 +157,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1aaae9c76bc3192",
-  "lastOpenFiles": []
+  "active": "675e57722dae6427",
+  "lastOpenFiles": [
+    "Order by with multiple columns.md"
+  ]
 }

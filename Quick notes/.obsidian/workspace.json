@@ -11,8 +11,12 @@
             "id": "cddafeb5a9a5bce1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Why Uber Engineering Switched from Postgres to MySQL.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Why Uber Engineering Switched from Postgres to MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Why Uber Engineering Switched from Postgres to MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Why Uber Engineering Switched from Postgres to MySQL.md"
+              }
             }
           }
         ]
@@ -141,6 +149,7 @@
   "active": "cddafeb5a9a5bce1",
   "lastOpenFiles": [
     "TO Read.md",
+    "Why Uber Engineering Switched from Postgres to MySQL.md",
     "Outages and Bugs/Indexing gone wrong (Swiggy Outage).md",
     "How does the \"final\" keyword in Java work?.md",
     "Tech behind GitHub’s new code search/The technology behind GitHub’s new code search.md",
