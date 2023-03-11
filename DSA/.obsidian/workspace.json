@@ -8,18 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f18ae6bb5038ccb",
+            "id": "a0c3552e2a621b15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stack/150. Evaluate Reverse Polish Notation.md",
+                "file": "Dynamic Programming/70. Climbing Stairs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e0c77fae2df4dfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic Programming/746. Min Cost Climbing Stairs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3291b5734603531b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Array/Binary Search/Template for Binary search.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ed57b9ceb67d9bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Array/Binary Search/875. Koko Eating Bananas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stack/150. Evaluate Reverse Polish Notation.md",
+                "file": "Array/Binary Search/875. Koko Eating Bananas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stack/150. Evaluate Reverse Polish Notation.md",
+                "file": "Array/Binary Search/875. Koko Eating Bananas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stack/150. Evaluate Reverse Polish Notation.md"
+                "file": "Array/Binary Search/875. Koko Eating Bananas.md"
               }
             }
           }
@@ -146,14 +183,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f18ae6bb5038ccb",
+  "active": "2ed57b9ceb67d9bc",
   "lastOpenFiles": [
+    "Array/Binary Search/Template for Binary search.md",
+    "Array/Binary Search/875. Koko Eating Bananas.md",
+    "Dynamic Programming/746. Min Cost Climbing Stairs.md",
+    "Dynamic Programming/70. Climbing Stairs.md",
+    "Array/Binary Search/2187. Minimum Time to Complete Trips.md",
+    "Untitled",
+    "Dynamic Programming",
+    "Array/Binary Search/List of problems.md",
+    "Stack/155. Min Stack.md",
+    "Sorting/912. Sort an Array.md",
     "Stack/150. Evaluate Reverse Polish Notation.md",
+    "Sorting",
     "Array/Binary Search/35. Search Insert Position.md",
     "Stack/739. Daily Temperatures.md",
     "Stack/20. Valid Parentheses (Solved on 27th Feb '23).md",
     "Stack/496. Next Greater Element I.md",
-    "Stack/155. Min Stack.md",
     "Stack",
     "Binary Trees/Iterative traversals/Level Order Traversal.md",
     "Binary Trees/Untitled.md"
