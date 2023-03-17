@@ -23,14 +23,52 @@
             "id": "675e57722dae6427",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Order by with multiple columns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc258ac5cb341711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postgres vs MySQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d233a3f6bcfa4b2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MySQL Replication lag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfb43fb1b48f4337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Order by with multiple columns.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,8 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "675e57722dae6427",
+  "active": "dfb43fb1b48f4337",
   "lastOpenFiles": [
+    "MySQL replication types.md",
+    "MySQL Replication lag.md",
+    "Postgres vs MySQL.md",
     "Order by with multiple columns.md"
   ]
 }

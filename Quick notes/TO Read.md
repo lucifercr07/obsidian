@@ -1,6 +1,15 @@
 - B-Tree/B+ Tree - ✅
+
+## Priority 1:
+- Consistent hashing implementation
+- Rate limiter types implementation
+- B-Tree/B+ Tree implementation
+
+
 - MVCC (Multi version concurrency control)
 - Two phase commit
+- Single threaded even loop (I/O Multiplexing)
+- Reactor pattern
 - WAL (Write ahead logging)
 - Write Amplification
 - Cascading replication
@@ -11,8 +20,7 @@
 - Schemaless Uber implementation layer on top of MySQL
 - MinHash and HyperLogLog (Git code search blog)
 - LCA Paper (Papers we love)
-- Rate limiter types implementation
-- Consistent hashing implementation
 - MultiThreading Java
 - Loadbalancer implementation
 - Redis Internals read
+- Murmur Hash

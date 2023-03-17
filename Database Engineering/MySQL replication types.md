@@ -1,0 +1,1 @@
+- https://www.databasejournal.com/mysql/comparing-mysql-statement-based-and-row-based-replication/

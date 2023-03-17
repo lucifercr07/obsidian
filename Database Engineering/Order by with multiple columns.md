@@ -1,4 +1,5 @@
 - Question: Hacker rank [link](https://www.hackerrank.com/challenges/weather-observation-station-5/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)
+- https://stackoverflow.com/questions/12062565/use-a-second-order-by-in-mysql-query
 - https://stackoverflow.com/a/514951/4134429
 ```sql
 ORDER BY article_rating, article_time DESC

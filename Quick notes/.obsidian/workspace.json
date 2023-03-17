@@ -8,31 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cddafeb5a9a5bce1",
+            "id": "cd777fa40435f865",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why Uber Engineering Switched from Postgres to MySQL.md",
+                "file": "Sorting a 1 TB file with 1 GB RAM.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "347f2e50093561d4",
+            "id": "a3f544ee1872729b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bookshelf 2023.md",
+                "file": "TO Read.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c631a97b67a6966d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capture change in Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f483b484bc6042ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TO Read.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bookshelf 2023.md",
+                "file": "TO Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bookshelf 2023.md",
+                "file": "TO Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bookshelf 2023.md"
+                "file": "TO Read.md"
               }
             }
           }
@@ -159,14 +183,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "347f2e50093561d4",
+  "active": "f483b484bc6042ef",
   "lastOpenFiles": [
-    "Why Uber Engineering Switched from Postgres to MySQL.md",
-    "Bookshelf 2023.md",
-    "Untitled",
+    "Redis/Reasons why Redis is fast.md",
+    "Capture change in Database.md",
+    "Redis",
     "TO Read.md",
-    "Outages and Bugs/Indexing gone wrong (Swiggy Outage).md",
+    "Discord switch to Scylla DB.md",
+    "Sorting a 1 TB file with 1 GB RAM.md",
+    "Why Uber Engineering Switched from Postgres to MySQL.md",
     "How does the \"final\" keyword in Java work?.md",
+    "Bookshelf 2023.md",
+    "Outages and Bugs/Indexing gone wrong (Swiggy Outage).md",
     "Tech behind GitHub’s new code search/The technology behind GitHub’s new code search.md",
     "Tech behind GitHub’s new code search/Pasted image 20230221174445.png",
     "Tech behind GitHub’s new code search/Pasted image 20230221165405.png"
