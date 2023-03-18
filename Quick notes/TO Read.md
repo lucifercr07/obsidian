@@ -4,6 +4,7 @@
 - Consistent hashing implementation
 - Rate limiter types implementation
 - B-Tree/B+ Tree implementation
+- Bloom Filter implementation
 
 
 - MVCC (Multi version concurrency control)

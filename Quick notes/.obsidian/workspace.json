@@ -8,55 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd777fa40435f865",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sorting a 1 TB file with 1 GB RAM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3f544ee1872729b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TO Read.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c631a97b67a6966d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capture change in Database.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f483b484bc6042ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO Read.md",
+                "file": "Bookshelf 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fefbd95281a725f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why do databases store data in B+ trees?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e516cdd330688ae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Datetime vs Timestamp datatype in databases - Which one is better and when?.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8f52d5b00f47a3c6",
@@ -122,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO Read.md",
+                "file": "Datetime vs Timestamp datatype in databases - Which one is better and when?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO Read.md",
+                "file": "Datetime vs Timestamp datatype in databases - Which one is better and when?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO Read.md"
+                "file": "Datetime vs Timestamp datatype in databases - Which one is better and when?.md"
               }
             }
           }
@@ -183,17 +172,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f483b484bc6042ef",
+  "active": "e516cdd330688ae6",
   "lastOpenFiles": [
-    "Redis/Reasons why Redis is fast.md",
-    "Capture change in Database.md",
-    "Redis",
     "TO Read.md",
+    "Why do databases store data in B+ trees?.md",
+    "Datetime vs Timestamp datatype in databases - Which one is better and when?.md",
+    "Pasted image 20230319200405.png",
+    "Bookshelf 2023.md",
+    "Capture change in Database.md",
     "Discord switch to Scylla DB.md",
+    "Redis/Reasons why Redis is fast.md",
+    "Redis",
     "Sorting a 1 TB file with 1 GB RAM.md",
     "Why Uber Engineering Switched from Postgres to MySQL.md",
     "How does the \"final\" keyword in Java work?.md",
-    "Bookshelf 2023.md",
     "Outages and Bugs/Indexing gone wrong (Swiggy Outage).md",
     "Tech behind GitHub’s new code search/The technology behind GitHub’s new code search.md",
     "Tech behind GitHub’s new code search/Pasted image 20230221174445.png",

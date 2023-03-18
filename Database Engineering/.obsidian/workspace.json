@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Order by with multiple columns.md",
+                "file": "MySQL replication types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f2641b3c792c41f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Postgres vs MySQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Order by with multiple columns.md",
+                "file": "Postgres vs MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Order by with multiple columns.md",
+                "file": "Postgres vs MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Order by with multiple columns.md"
+                "file": "Postgres vs MySQL.md"
               }
             }
           }
@@ -195,11 +207,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfb43fb1b48f4337",
+  "active": "3f2641b3c792c41f",
   "lastOpenFiles": [
+    "Isolation levels in MySQL.md",
+    "Pasted image 20230321141129.png",
+    "Pasted image 20230321124012.png",
+    "Pasted image 20230321123952.png",
     "MySQL replication types.md",
+    "Order by with multiple columns.md",
     "MySQL Replication lag.md",
-    "Postgres vs MySQL.md",
-    "Order by with multiple columns.md"
+    "Postgres vs MySQL.md"
   ]
 }

@@ -78,9 +78,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f8b05c5ef7a7de0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinkedList/1472. Design Browser History.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d0475114eb258ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic Programming/213. House Robber II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "384f21a110d5583c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trie/208. Implement Trie (Prefix Tree).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7db20765e4a94b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Array/605. Can Place Flowers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45d795b914783411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Array/2348. Number of Zero-Filled Subarrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -146,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Programming/198. House Robber.md",
+                "file": "Array/2348. Number of Zero-Filled Subarrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Programming/198. House Robber.md",
+                "file": "Array/2348. Number of Zero-Filled Subarrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Programming/198. House Robber.md"
+                "file": "Array/2348. Number of Zero-Filled Subarrays.md"
               }
             }
           }
@@ -207,11 +267,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6031b6dc26f9762",
+  "active": "45d795b914783411",
   "lastOpenFiles": [
-    "LinkedList/Linked list cycle II.md",
+    "Array/605. Can Place Flowers.md",
+    "Array/2348. Number of Zero-Filled Subarrays.md",
+    "Trie/208. Implement Trie (Prefix Tree).md",
+    "Trie/TODO - Ternary search tree.md",
+    "Trie",
+    "Dynamic Programming/213. House Robber II.md",
+    "LinkedList/1472. Design Browser History.md",
     "Dynamic Programming/198. House Robber.md",
-    "Untitled.md",
+    "LinkedList/Linked list cycle II.md",
     "LinkedList",
     "Array/Binary Search/875. Koko Eating Bananas.md",
     "Array/Binary Search/Template for Binary search.md",
