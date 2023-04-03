@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Postgres vs MySQL.md",
+                "file": "Isolation levels in MySQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postgres vs MySQL.md",
+                "file": "Isolation levels in MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postgres vs MySQL.md",
+                "file": "Isolation levels in MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Postgres vs MySQL.md"
+                "file": "Isolation levels in MySQL.md"
               }
             }
           }
@@ -209,13 +209,13 @@
   },
   "active": "3f2641b3c792c41f",
   "lastOpenFiles": [
+    "Order by with multiple columns.md",
+    "MySQL replication types.md",
     "Isolation levels in MySQL.md",
+    "MySQL Replication lag.md",
+    "Postgres vs MySQL.md",
     "Pasted image 20230321141129.png",
     "Pasted image 20230321124012.png",
-    "Pasted image 20230321123952.png",
-    "MySQL replication types.md",
-    "Order by with multiple columns.md",
-    "MySQL Replication lag.md",
-    "Postgres vs MySQL.md"
+    "Pasted image 20230321123952.png"
   ]
 }

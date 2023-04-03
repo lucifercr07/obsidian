@@ -1,0 +1,3 @@
+- dbt enabled engineers to transform data in their warehouses by simply writing `select` statements. dbt handles turning these select statements into tables and views.
+- dbt does the `T` in ELT i.e. Transform processes. It's extremely good at transforming data already in data warehouse.
+- 

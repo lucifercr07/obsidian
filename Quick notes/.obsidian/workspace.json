@@ -20,24 +20,36 @@
             }
           },
           {
-            "id": "fefbd95281a725f0",
+            "id": "ffb9e5ea9c02ab2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why do databases store data in B+ trees?.md",
+                "file": "The Parquet Format and Performance Optimization Opportunities.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e516cdd330688ae6",
+            "id": "eb2e223bb32ee5e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datetime vs Timestamp datatype in databases - Which one is better and when?.md",
+                "file": "Relog/Notes 📝.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bfe2b223f0ab4e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBT/Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datetime vs Timestamp datatype in databases - Which one is better and when?.md",
+                "file": "Relog/Notes 📝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datetime vs Timestamp datatype in databases - Which one is better and when?.md",
+                "file": "Relog/Notes 📝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datetime vs Timestamp datatype in databases - Which one is better and when?.md"
+                "file": "Relog/Notes 📝.md"
               }
             }
           }
@@ -172,13 +184,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e516cdd330688ae6",
+  "active": "eb2e223bb32ee5e7",
   "lastOpenFiles": [
-    "TO Read.md",
+    "Pasted image 20230402104914.png",
+    "Pasted image 20230402102001.png",
+    "Pasted image 20230402095809.png",
+    "Pasted image 20230402095755.png",
+    "DBT/Intro.md",
+    "Relog/Notes 📝.md",
+    "DBT",
+    "Relog",
+    "The Parquet Format and Performance Optimization Opportunities.md",
+    "Parquet format and optimizations.md",
+    "A Tale of Three Apache Spark APIs  RDDs, DataFrames, and Datasets.md",
+    "Pasted image 20230325215746.png",
+    "Bookshelf 2023.md",
+    "Pasted image 20230322190349.png",
+    "Pasted image 20230322190341.png",
+    "Pasted image 20230322190337.png",
+    "Pasted image 20230322185620.png",
+    "Pasted image 20230322184518.png",
+    "Pasted image 20230322174506.png",
     "Why do databases store data in B+ trees?.md",
     "Datetime vs Timestamp datatype in databases - Which one is better and when?.md",
-    "Pasted image 20230319200405.png",
-    "Bookshelf 2023.md",
+    "TO Read.md",
     "Capture change in Database.md",
     "Discord switch to Scylla DB.md",
     "Redis/Reasons why Redis is fast.md",
@@ -187,8 +216,6 @@
     "Why Uber Engineering Switched from Postgres to MySQL.md",
     "How does the \"final\" keyword in Java work?.md",
     "Outages and Bugs/Indexing gone wrong (Swiggy Outage).md",
-    "Tech behind GitHub’s new code search/The technology behind GitHub’s new code search.md",
-    "Tech behind GitHub’s new code search/Pasted image 20230221174445.png",
-    "Tech behind GitHub’s new code search/Pasted image 20230221165405.png"
+    "Tech behind GitHub’s new code search/The technology behind GitHub’s new code search.md"
   ]
 }
