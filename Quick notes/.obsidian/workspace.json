@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relog/Notes 📝.md",
+                "file": "DBT/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relog/Notes 📝.md",
+                "file": "DBT/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relog/Notes 📝.md"
+                "file": "DBT/Intro.md"
               }
             }
           }
@@ -184,14 +184,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb2e223bb32ee5e7",
+  "active": "4bfe2b223f0ab4e5",
   "lastOpenFiles": [
+    "Pasted image 20230406000724.png",
+    "Relog/Notes 📝.md",
+    "DBT/Intro.md",
+    "Pasted image 20230405235900.png",
+    "Pasted image 20230405235540.png",
+    "Pasted image 20230405235041.png",
     "Pasted image 20230402104914.png",
     "Pasted image 20230402102001.png",
     "Pasted image 20230402095809.png",
     "Pasted image 20230402095755.png",
-    "DBT/Intro.md",
-    "Relog/Notes 📝.md",
     "DBT",
     "Relog",
     "The Parquet Format and Performance Optimization Opportunities.md",
@@ -201,10 +205,6 @@
     "Bookshelf 2023.md",
     "Pasted image 20230322190349.png",
     "Pasted image 20230322190341.png",
-    "Pasted image 20230322190337.png",
-    "Pasted image 20230322185620.png",
-    "Pasted image 20230322184518.png",
-    "Pasted image 20230322174506.png",
     "Why do databases store data in B+ trees?.md",
     "Datetime vs Timestamp datatype in databases - Which one is better and when?.md",
     "TO Read.md",

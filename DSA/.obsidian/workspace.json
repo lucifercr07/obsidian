@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "9746f2cbefb3dabd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph/2. Graph and its representations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c2070fe27d6fdc28",
             "type": "leaf",
             "state": {
@@ -44,19 +32,19 @@
             }
           },
           {
-            "id": "48c29b993afd9904",
+            "id": "31b8cdccc4636a27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Array/Binary Search/Template for Binary search.md",
+                "file": "Array/2439. Minimize Maximum of Array.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Array/Binary Search/Template for Binary search.md",
+                "file": "Array/2439. Minimize Maximum of Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Array/Binary Search/Template for Binary search.md",
+                "file": "Array/2439. Minimize Maximum of Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Array/Binary Search/Template for Binary search.md"
+                "file": "Array/2439. Minimize Maximum of Array.md"
               }
             }
           }
@@ -183,9 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48c29b993afd9904",
+  "active": "31b8cdccc4636a27",
   "lastOpenFiles": [
     "881. Boats to Save People.md",
+    "Array/2439. Minimize Maximum of Array.md",
+    "Array/Binary Search/35. Search Insert Position.md",
+    "Array/Binary Search/List of problems.md",
+    "Array/Binary Search/Template for Binary search.md",
+    "Array/Binary Search/2300. Successful Pairs of Spells and Potions.md",
+    "Array/2405. Optimal Partition of String.md",
     "Graph/3. Algorithm in graphs.md",
     "Pasted image 20230328101752.png",
     "Graph/2. Graph and its representations.md",
@@ -208,20 +202,14 @@
     "LinkedList/Linked list cycle II.md",
     "LinkedList",
     "Array/Binary Search/875. Koko Eating Bananas.md",
-    "Array/Binary Search/Template for Binary search.md",
     "Dynamic Programming/746. Min Cost Climbing Stairs.md",
     "Dynamic Programming/70. Climbing Stairs.md",
     "Array/Binary Search/2187. Minimum Time to Complete Trips.md",
     "Dynamic Programming",
-    "Array/Binary Search/List of problems.md",
     "Stack/155. Min Stack.md",
     "Sorting/912. Sort an Array.md",
     "Stack/150. Evaluate Reverse Polish Notation.md",
     "Sorting",
-    "Array/Binary Search/35. Search Insert Position.md",
-    "Stack/739. Daily Temperatures.md",
-    "Stack/20. Valid Parentheses (Solved on 27th Feb '23).md",
-    "Stack/496. Next Greater Element I.md",
     "Stack"
   ]
 }
