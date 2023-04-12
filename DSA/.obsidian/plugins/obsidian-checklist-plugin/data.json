@@ -1,0 +1,18 @@
+{
+  "todoPageName": "todo",
+  "showChecked": false,
+  "showAllTodos": false,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "tag",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "#todo/2023-04/personal/2023-04-11/next-action",
+    "#todo/personal/someday-maybe"
+  ],
+  "_hiddenTags": []
+}
