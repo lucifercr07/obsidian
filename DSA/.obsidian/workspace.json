@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb50b277b90ac609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "946. Validate Stack Sequences.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a484699924c9444",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic Programming/LCS Pattern/Longest common subsequence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stack/2390. Removing Stars From a String.md",
+                "file": "Dynamic Programming/LCS Pattern/Longest common subsequence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stack/2390. Removing Stars From a String.md",
+                "file": "Dynamic Programming/LCS Pattern/Longest common subsequence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stack/2390. Removing Stars From a String.md"
+                "file": "Dynamic Programming/LCS Pattern/Longest common subsequence.md"
               }
             }
           },
@@ -216,10 +240,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bd3a0b231a95649",
+  "active": "4a484699924c9444",
   "lastOpenFiles": [
-    "Stack/71. Simplify Path.md",
+    "946. Validate Stack Sequences.md",
+    "Dynamic Programming/LCS Pattern/Longest common subsequence.md",
+    "Dynamic Programming/LCS Pattern",
     "Stack/2390. Removing Stars From a String.md",
+    "Stack/71. Simplify Path.md",
     "Graph/1857. Largest Color Value in a Directed Graph.md",
     "1. TODO/TODO.md",
     "Graph/5. Breadth First Search.md",
@@ -253,8 +280,6 @@
     "Array/605. Can Place Flowers.md",
     "Trie/208. Implement Trie (Prefix Tree).md",
     "Trie",
-    "Dynamic Programming/213. House Robber II.md",
-    "LinkedList/1472. Design Browser History.md",
     "LinkedList",
     "Dynamic Programming",
     "Sorting",

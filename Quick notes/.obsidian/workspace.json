@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Engineering/Discord switch to Scylla DB.md",
+                "file": "Database Engineering/CMU/2. Modern SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TO Read.md",
+                "file": "Database Engineering/Why Uber Engineering Switched from Postgres to MySQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be669dd27b37bae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relog/1. Notes 📝.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TO Read.md",
+                "file": "Database Engineering/CMU/2. Modern SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TO Read.md",
+                "file": "Database Engineering/CMU/2. Modern SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TO Read.md"
+                "file": "Database Engineering/CMU/2. Modern SQL.md"
               }
             }
           },
@@ -169,12 +180,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "30d6679e263d1981",
+  "active": "6ef1752241b533d8",
   "lastOpenFiles": [
-    "Bookshelf 2023.md",
-    "TO Read.md",
-    "Database Engineering/Hussein Course/Twitter database system design.md",
+    "Pasted image 20230420021324.png",
+    "Pasted image 20230420021038.png",
+    "Pasted image 20230420020432.png",
+    "Images/Pasted image 20230416111430.png",
+    "Database Engineering/CMU/2. Modern SQL.md",
+    "Images/Pasted image 20230418003233.png",
+    "Images/Pasted image 20230418002040.png",
+    "Database Engineering/How slow is your SELECT.md",
+    "Relog/1. Notes 📝.md",
+    "Database Engineering/Why Uber Engineering Switched from Postgres to MySQL.md",
+    "Relog/2. Implementations Completed.md",
+    "Database Engineering/CMU/1. Relational Model & Relational Algebra.md",
+    "Images/Pasted image 20230414104741.png",
+    "Database Engineering/Discord switch to Scylla DB.md",
+    "Images/Pasted image 20230414104707.png",
+    "Images/Pasted image 20230413015652.png",
+    "Database Engineering/CMU",
     "Excalidraw/Twitter database system design 2023-04-12 01.09.30.excalidraw.md",
+    "Database Engineering/Hussein Course/Twitter database system design.md",
+    "TO Read.md",
+    "Bookshelf 2023.md",
     "Excalidraw/Twitter database system design 2023-04-12 01.04.42.excalidraw.md",
     "Excalidraw/Drawing 2023-04-12 01.09.07.excalidraw.md",
     "Database Engineering/Hussein Course/Drawing 2023-04-12 01.03.50.excalidraw.md",
@@ -183,7 +211,6 @@
     "Untitled.md",
     "Database Engineering/Scaling Datastores at Slack with Vitess.md",
     "Database Engineering/Hussein Course",
-    "Database Engineering/Discord switch to Scylla DB.md",
     "Database Engineering/Capture change in Database.md",
     "Distributed Systems or System Design/How to make sure transactions are committed successfully in a distributed system.md",
     "Data Engineering",
@@ -195,27 +222,11 @@
     "Data Engineering/DBT/Intro.md",
     "Java",
     "Data Engineering/Apache Spark",
-    "Relog/1. Notes 📝.md",
     "Database Engineering",
-    "Database Engineering/Why Uber Engineering Switched from Postgres to MySQL.md",
-    "Images/Pasted image 20230322174506.png",
-    "Images/Pasted image 20230406000724.png",
-    "Images/Pasted image 20230409112934.png",
-    "Images/Pasted image 20230409110612.png",
-    "Images/Pasted image 20230411225705.png",
     "Images",
     "Outages and Bugs/Indexing gone wrong (Swiggy Outage).md",
-    "Relog/2. Implementations Completed.md",
     "Redis/Reasons why Redis is fast.md",
-    "Images/Pasted image 20230408112759.png",
-    "Images/Pasted image 20230408101525.png",
-    "Images/Pasted image 20230405235900.png",
     "Data Engineering/DBT",
-    "Relog",
-    "Parquet format and optimizations.md",
-    "Data Engineering/Apache Spark/A Tale of Three Apache Spark APIs  RDDs, DataFrames, and Datasets.md",
-    "Database Engineering/Why do databases store data in B+ trees?.md",
-    "Database Engineering/Datetime vs Timestamp datatype in databases - Which one is better and when?.md",
-    "Java/Sorting a 1 TB file with 1 GB RAM.md"
+    "Parquet format and optimizations.md"
   ]
 }

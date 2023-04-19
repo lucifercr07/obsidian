@@ -1,0 +1,2 @@
+- Ref: https://medium.com/@hnasr/how-slow-is-select-8d4308ca1f0c, https://vettabase.com/how-slow-is-select/, https://www.reddit.com/r/SQL/comments/qjs013/how_slow_is_select/
+- 
