@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "cd943c0d90854b2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b60fc96df1ff0f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a5a9697f1ff2be6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quick notes/Bookshelf 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e9687d405d447fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quick notes/Work notes/SF work notes/Databases at salesforce.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86619d3a6c22c162",
+    "type": "split",
+    "children": [
+      {
+        "id": "1842bd04cd6b862d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ab05284049541fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d417f7bf1cb8bca4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2983a54b1a8d3cf8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfc43d4123c43e95",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc317d883790281d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca58a2c9534df439",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quick notes/Work notes/SF work notes/Databases at salesforce.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdef617f8c2e6803",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Quick notes/Work notes/SF work notes/Databases at salesforce.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0d998f4a97b01ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3de66cb41678fb9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Quick notes/Work notes/SF work notes/Databases at salesforce.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2e9687d405d447fc",
+  "lastOpenFiles": [
+    "Quick notes/Work notes/SF work notes/Databases at salesforce.md",
+    "Quick notes/Work notes/SF work notes",
+    "Quick notes/Bookshelf 2023.md",
+    "Quick notes/Work notes/Past work",
+    "Quick notes/Relog/2. Implementations Completed.md"
+  ]
+}

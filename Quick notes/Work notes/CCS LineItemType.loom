@@ -1,0 +1,166 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "ac59189d-fa2c-4f5b-869e-9deedfe27afe",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "259px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      },
+      {
+        "id": "a54b5af5-7ff9-40f4-9b64-a0141fdd41da",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "227px",
+        "type": "text",
+        "currencyType": "USD",
+        "dateFormat": "mm/dd/yyyy",
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset"
+      }
+    ],
+    "headerRows": [
+      {
+        "id": "bcbba7da-0534-41fb-afd7-c2c28d737d12"
+      }
+    ],
+    "bodyRows": [
+      {
+        "id": "9ff94f5e-6bf1-4766-abd6-e71a9b7a3d2d",
+        "index": 0,
+        "creationTime": 1693494496323,
+        "lastEditedTime": 1693494759215
+      },
+      {
+        "id": "ea27f935-056a-45f1-b3c7-dd142b23091b",
+        "index": 1,
+        "creationTime": 1693494445522,
+        "lastEditedTime": 1693494788765
+      },
+      {
+        "id": "46e5b027-2055-4043-8b95-8fcdf2e34a3a",
+        "index": 2,
+        "creationTime": 1693494948446,
+        "lastEditedTime": 1693494958002
+      }
+    ],
+    "footerRows": [
+      {
+        "id": "fe2547f3-8ee7-4d25-aa97-14cf50038f78"
+      },
+      {
+        "id": "191cb134-a42d-4a42-b9d8-4a55ab1d434c"
+      }
+    ],
+    "headerCells": [
+      {
+        "id": "c10c9983-e0ee-4445-9da1-cffedcf367b4",
+        "columnId": "ac59189d-fa2c-4f5b-869e-9deedfe27afe",
+        "rowId": "bcbba7da-0534-41fb-afd7-c2c28d737d12",
+        "markdown": "Original Value"
+      },
+      {
+        "id": "0a68bea2-798b-4e5a-a876-dd502dc72469",
+        "columnId": "a54b5af5-7ff9-40f4-9b64-a0141fdd41da",
+        "rowId": "bcbba7da-0534-41fb-afd7-c2c28d737d12",
+        "markdown": "Updated Value for CCS"
+      }
+    ],
+    "bodyCells": [
+      {
+        "id": "a8ea2ec4-5ec2-4500-b690-6b48a7f4b976",
+        "isExternalLink": false,
+        "columnId": "ac59189d-fa2c-4f5b-869e-9deedfe27afe",
+        "rowId": "ea27f935-056a-45f1-b3c7-dd142b23091b",
+        "dateTime": null,
+        "markdown": "SavingsPlanCoveredUsage",
+        "tagIds": []
+      },
+      {
+        "id": "1bfe9369-e69b-4f64-b7f8-34791329dc7f",
+        "isExternalLink": false,
+        "columnId": "a54b5af5-7ff9-40f4-9b64-a0141fdd41da",
+        "rowId": "ea27f935-056a-45f1-b3c7-dd142b23091b",
+        "dateTime": null,
+        "markdown": "SavingsPlan",
+        "tagIds": []
+      },
+      {
+        "id": "a1889e85-49aa-4b20-8e1b-af2e271f575d",
+        "isExternalLink": false,
+        "columnId": "ac59189d-fa2c-4f5b-869e-9deedfe27afe",
+        "rowId": "9ff94f5e-6bf1-4766-abd6-e71a9b7a3d2d",
+        "dateTime": null,
+        "markdown": "Usage",
+        "tagIds": []
+      },
+      {
+        "id": "1073f9c3-b31b-4a51-ac39-07002def03f8",
+        "isExternalLink": false,
+        "columnId": "a54b5af5-7ff9-40f4-9b64-a0141fdd41da",
+        "rowId": "9ff94f5e-6bf1-4766-abd6-e71a9b7a3d2d",
+        "dateTime": null,
+        "markdown": "OnDemand",
+        "tagIds": []
+      },
+      {
+        "id": "55668bb4-73e3-4e50-bc8e-7838ddb0973d",
+        "isExternalLink": false,
+        "columnId": "ac59189d-fa2c-4f5b-869e-9deedfe27afe",
+        "rowId": "46e5b027-2055-4043-8b95-8fcdf2e34a3a",
+        "dateTime": null,
+        "markdown": "DiscountedUsage",
+        "tagIds": []
+      },
+      {
+        "id": "f1189ff0-b83a-4dbf-8db5-1faf1af9d557",
+        "isExternalLink": false,
+        "columnId": "a54b5af5-7ff9-40f4-9b64-a0141fdd41da",
+        "rowId": "46e5b027-2055-4043-8b95-8fcdf2e34a3a",
+        "dateTime": null,
+        "markdown": "Reservation",
+        "tagIds": []
+      }
+    ],
+    "footerCells": [
+      {
+        "id": "84331ed6-2771-4e88-841b-76d6f2cb2a27",
+        "columnId": "ac59189d-fa2c-4f5b-869e-9deedfe27afe",
+        "rowId": "fe2547f3-8ee7-4d25-aa97-14cf50038f78"
+      },
+      {
+        "id": "55a61667-ec05-4b97-88e4-9eec6a813b13",
+        "columnId": "ac59189d-fa2c-4f5b-869e-9deedfe27afe",
+        "rowId": "191cb134-a42d-4a42-b9d8-4a55ab1d434c"
+      },
+      {
+        "id": "3813ed95-8d83-4408-bc05-aa21f05cfa18",
+        "columnId": "a54b5af5-7ff9-40f4-9b64-a0141fdd41da",
+        "rowId": "fe2547f3-8ee7-4d25-aa97-14cf50038f78"
+      },
+      {
+        "id": "cae4f62e-9ccc-4ec2-aad9-959dc10e0911",
+        "columnId": "a54b5af5-7ff9-40f4-9b64-a0141fdd41da",
+        "rowId": "191cb134-a42d-4a42-b9d8-4a55ab1d434c"
+      }
+    ],
+    "filterRules": [],
+    "settings": {
+      "numFrozenColumns": 1
+    }
+  },
+  "pluginVersion": "8.2.2"
+}

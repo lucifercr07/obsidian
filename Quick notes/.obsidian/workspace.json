@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f869ded17d14e22d",
+        "id": "99ec1a5d641588ca",
         "type": "tabs",
         "children": [
           {
-            "id": "6ef1752241b533d8",
+            "id": "1f3d290df1a14b09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Engineering/CMU/2. Modern SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30d6679e263d1981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database Engineering/Why Uber Engineering Switched from Postgres to MySQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be669dd27b37bae5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Relog/1. Notes 📝.md",
+                "file": "Work notes/Event Definition review.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "d04b9c096abb2e17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -109,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Engineering/CMU/2. Modern SQL.md",
+                "file": "Work notes/Event Definition review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Engineering/CMU/2. Modern SQL.md",
+                "file": "Work notes/Event Definition review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,16 +133,26 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Engineering/CMU/2. Modern SQL.md"
+                "file": "Work notes/Event Definition review.md"
               }
             }
           },
           {
-            "id": "7415ddd04f35cecb",
+            "id": "516ea4ea71a54916",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
+            }
+          },
+          {
+            "id": "ba51f7307dd49f08",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -177,56 +171,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "notion-like-tables:Create new loom": false
     }
   },
-  "active": "6ef1752241b533d8",
+  "active": "1f3d290df1a14b09",
   "lastOpenFiles": [
-    "Pasted image 20230420021324.png",
-    "Pasted image 20230420021038.png",
-    "Pasted image 20230420020432.png",
-    "Images/Pasted image 20230416111430.png",
-    "Database Engineering/CMU/2. Modern SQL.md",
-    "Images/Pasted image 20230418003233.png",
-    "Images/Pasted image 20230418002040.png",
-    "Database Engineering/How slow is your SELECT.md",
-    "Relog/1. Notes 📝.md",
-    "Database Engineering/Why Uber Engineering Switched from Postgres to MySQL.md",
-    "Relog/2. Implementations Completed.md",
-    "Database Engineering/CMU/1. Relational Model & Relational Algebra.md",
-    "Images/Pasted image 20230414104741.png",
-    "Database Engineering/Discord switch to Scylla DB.md",
-    "Images/Pasted image 20230414104707.png",
-    "Images/Pasted image 20230413015652.png",
-    "Database Engineering/CMU",
+    "Work notes/CCS FR query.md",
+    "Work notes/Event Definition review.md",
+    "Pasted image 20231016154703.png",
+    "Pasted image 20230603155901.png",
+    "Work notes/Tanzu Hub/Nick's review fixes.md",
+    "Work notes/CCS LineItemType.loom",
+    "Work notes/Tanzu Hub/Tanzu Hub initial requirements.md",
+    "Work notes/Cloud smart cost summary.md",
+    "Work notes/Tanzu Hub",
+    "Database Engineering/Index Quirks.md",
     "Excalidraw/Twitter database system design 2023-04-12 01.09.30.excalidraw.md",
-    "Database Engineering/Hussein Course/Twitter database system design.md",
-    "TO Read.md",
-    "Bookshelf 2023.md",
-    "Excalidraw/Twitter database system design 2023-04-12 01.04.42.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-12 01.09.07.excalidraw.md",
-    "Database Engineering/Hussein Course/Drawing 2023-04-12 01.03.50.excalidraw.md",
-    "Database Engineering/Partitioning in MySQL.md",
-    "Excalidraw",
-    "Untitled.md",
-    "Database Engineering/Scaling Datastores at Slack with Vitess.md",
-    "Database Engineering/Hussein Course",
-    "Database Engineering/Capture change in Database.md",
-    "Distributed Systems or System Design/How to make sure transactions are committed successfully in a distributed system.md",
-    "Data Engineering",
-    "Distributed Systems or System Design",
+    "Excalidraw/Cloud smart cost summary 2023-08-11 00.14.42.excalidraw.md",
+    "Database Engineering/Why use Redis.md",
+    "Work notes/Untitled.loom",
+    "Java/The Spring Data findAll Anti-Pattern.md",
+    "Backend Engineering/Myths Programmers Believe about CPU Caches.md",
+    "Work notes",
+    "Distributed Systems or System Design/System design interview tips.md",
+    "Personal Notes/One on One Magesh.md",
+    "Database Engineering/CMU/5. Columnar Databases & Compression.md",
+    "Java/How to access parameter of Callable Future after execution?.md",
+    "screencapture-use-the-index-luke-3-minute-test-mysql-2023-06-02-01_36_41.png",
+    "Backend Engineering/The Dangers of Google’s .zip TLD.md",
+    "Java/Synchronized keyword.md",
+    "Java/What is N + 1 query problem.md",
+    "Personal Notes",
+    "Images/Pasted image 20230516003227.png",
+    "Database Engineering/CMU/4. Database Storage 2.md",
+    "Images/Pasted image 20230516000211.png",
     "Database Engineering/Sharding when to consider.md",
-    "Images/Pasted image 20230411233737.png",
-    "Images/Pasted image 20230411230343.png",
-    "Data Engineering/Apache Spark/The Parquet Format and Performance Optimization Opportunities.md",
-    "Data Engineering/DBT/Intro.md",
-    "Java",
-    "Data Engineering/Apache Spark",
-    "Database Engineering",
-    "Images",
-    "Outages and Bugs/Indexing gone wrong (Swiggy Outage).md",
-    "Redis/Reasons why Redis is fast.md",
-    "Data Engineering/DBT",
-    "Parquet format and optimizations.md"
+    "Images/Pasted image 20230511003225.png",
+    "Distributed Systems or System Design/How to make sure transactions are committed successfully in a distributed system.md",
+    "Images/Pasted image 20230510232611.png",
+    "Images/Pasted image 20230510231633.png",
+    "Database Engineering/CMU/3. Database Storage Part 1.md",
+    "Images/Pasted image 20230509005040.png",
+    "Images/Pasted image 20230509011540.png",
+    "TO Read.md",
+    "Database Engineering/Following a DB read to the metal.md",
+    "Database Engineering/Why Uber Engineering Switched from Postgres to MySQL.md",
+    "Backend Engineering",
+    "Database Engineering/CMU",
+    "Excalidraw",
+    "Database Engineering/Hussein Course",
+    "Data Engineering"
   ]
 }

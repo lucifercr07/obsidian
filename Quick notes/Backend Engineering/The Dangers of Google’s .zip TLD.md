@@ -1,0 +1,3 @@
+- Article: https://medium.com/@bobbyrsec/the-dangers-of-googles-zip-tld-5e1e675e59a5
+- Nice explanation: https://www.youtube.com/watch?v=LFriS1PICE0&pp=ygUZZ29vZ2xlcyAuemlwIGRvbWFpbiBpc3N1ZQ%3D%3D
+- 

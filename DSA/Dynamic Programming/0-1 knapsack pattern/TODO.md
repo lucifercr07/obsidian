@@ -1,0 +1,4 @@
+- Partition Equal subset sum: [https://www.youtube.com/watch?v=IsvocB5BJhw](https://www.youtube.com/watch?v=IsvocB5BJhw)
+- Target Sum: [https://www.youtube.com/watch?v=g0npyaQtAQM](https://www.youtube.com/watch?v=g0npyaQtAQM)
+- Ones and Zeroes: [https://www.youtube.com/watch?v=miZ3qV04b1g](https://www.youtube.com/watch?v=miZ3qV04b1g)
+- Last Stone Weight II: [https://www.youtube.com/watch?v=gdXkkmzvR3c](https://www.youtube.com/watch?v=gdXkkmzvR3c)

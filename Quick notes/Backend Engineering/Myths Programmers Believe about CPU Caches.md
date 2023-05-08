@@ -1,0 +1,4 @@
+- Ref: https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/
+- **Cache coherency**: Cache coherence is a property in computer architecture that ensures that multiple caches in a system observe a consistent view of memory. It aims to maintain data consistency across different levels of cache and between multiple processors in a multiprocessor system.
+  In a multiprocessor system, each processor typically has its own cache memory to store frequently accessed data. When multiple processors access and modify shared data, issues of data consistency can arise. Cache coherence protocols are designed to address these issues by coordinating the actions of caches and ensuring that all processors observe a consistent view of memory.
+- 

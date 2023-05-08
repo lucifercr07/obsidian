@@ -6,7 +6,8 @@
 - Spark The Definitive Guide (To Read)
 
 # Fiction
-- The Immortals Of Meluha (Shiva Trilogy Book 1)
+- The Immortals Of Meluha (Shiva Trilogy Book 1,2,3) ✅
+- 
 
 
 # Autobiography

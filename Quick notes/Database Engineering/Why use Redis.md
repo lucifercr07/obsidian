@@ -1,0 +1,2 @@
+- Ref: https://12ft.io/proxy?&q=https%3A%2F%2Fiorilan.medium.com%2Fit-is-fast-may-not-be-a-good-answer-to-discuss-redis-during-an-interview-and-here-is-a-better-one-5bb3bc3cd37f
+- 

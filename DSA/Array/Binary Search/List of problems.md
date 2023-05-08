@@ -1,3 +1,5 @@
+https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/editorial/comments/1884032
+
 **Easy**  
 [https://leetcode.com/problems/arranging-coins/](https://leetcode.com/problems/arranging-coins/)
 
