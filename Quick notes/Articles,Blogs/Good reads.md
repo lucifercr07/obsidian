@@ -1,0 +1,2 @@
+- https://freedium.cfd/https://iorilan.medium.com/i-made-such-a-stupid-mistake-in-code-will-i-be-laid-off-eb83b5d09423 - Nice summary around team work importance
+- 

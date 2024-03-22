@@ -1,0 +1,1 @@
+https://github.com/nendonerd/wizardzines/tree/master/Help!%20I%20have%20a%20manager!
