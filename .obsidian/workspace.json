@@ -4,28 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4b60fc96df1ff0f2",
+        "id": "a57f5d059a7e8547",
         "type": "tabs",
         "children": [
           {
-            "id": "2e9687d405d447fc",
+            "id": "4ebe77f12b6013f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick notes/Articles,Blogs/WIP Articles/What all a file has in linux and how's it read from disk (Needle in a haystack) 2.md",
+                "file": "Quick notes/Java/Multithreading/Hands on Resources.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "f1fde81b46c2e7d9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-03-23 01.45.48.excalidraw.md"
               }
             }
           }
@@ -58,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "multithread",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quick notes/Articles,Blogs/WIP Articles/What all a file has in linux and how's it read from disk (Needle in a haystack) 2.md",
+                "file": "Quick notes/Java/Multithreading/Hands on Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quick notes/Articles,Blogs/WIP Articles/What all a file has in linux and how's it read from disk (Needle in a haystack) 2.md",
+                "file": "Quick notes/Java/Multithreading/Hands on Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,11 +125,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quick notes/Articles,Blogs/WIP Articles/What all a file has in linux and how's it read from disk (Needle in a haystack) 2.md"
+                "file": "Quick notes/Java/Multithreading/Hands on Resources.md"
               }
             }
+          },
+          {
+            "id": "8ef35a9995bd6cff",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3683d391cfc6ebb1",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -154,22 +161,45 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e9687d405d447fc",
+  "active": "4ebe77f12b6013f9",
   "lastOpenFiles": [
+    "Quick notes/Java/Multithreading/Untitled.md",
+    "Quick notes/Java/Multithreading/Hands on Resources.md",
+    "Current Focus/Focus items.md",
+    "Quick notes/Java/Multithreading/Threading Essentials - Heinz Kabutz/Concurrency vs Parallelism.md",
+    "Pasted image 20240424200200.png",
+    "Pasted image 20240424195350.png",
+    "Untitled.canvas",
+    "Pet Projects/ByteBothy/Design and Requirements.md",
+    "Excalidraw/Drawing 2024-04-18 16.15.12.excalidraw.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2024-04-18 14.12.53.excalidraw.md",
+    "Excalidraw/Untitled.canvas",
     "Excalidraw/Drawing 2024-03-23 01.45.48.excalidraw.md",
+    "Pet Projects/Daily Dose of Malware",
+    "Pet Projects/ByteBothy",
+    "Pet Projects",
+    "Quick notes/Java/Design Patterns by Heinz Kabutz/Design patterns.md",
+    "Quick notes/Java/Multithreading/Threading Essentials - Heinz Kabutz",
+    "Quick notes/Java/Multithreading",
+    "Pasted image 20240404203623.png",
+    "Pasted image 20240404203619.png",
+    "Pasted image 20240404202444.png",
+    "Quick notes/Articles,Blogs/WIP Articles/Journey of a network request browser.md",
+    "Quick notes/Java/Design Patterns by Heinz Kabutz",
+    "Quick notes/Articles,Blogs/WIP Articles/What all a file has in linux and how's it read from disk (Needle in a haystack).md",
     "Quick notes/Articles,Blogs/WIP Articles/What all a file has in linux and how's it read from disk (Needle in a haystack) 2.md",
     "Excalidraw",
-    "Quick notes/Articles,Blogs/WIP Articles/What all a file has in linux and how's it read from disk (Needle in a haystack).md",
     "TODO/TODO Implementations.md",
     "Quick notes/Articles,Blogs/WIP Articles/Kotlin CoRoutines vs Java VirtualThreads.md",
     "Quick notes/Articles,Blogs/WIP Articles",
     "TODO/TO Read.md",
     "Quick notes/Articles,Blogs/Good reads.md",
     "Quick notes/Articles,Blogs",
-    "Current Focus/Focus items.md",
     "Quick notes/Work notes/SF work notes/Pasted image 20240219160728.png",
     "Quick notes/Personal Notes/Manager 1-1s template.md",
     "Quick notes/Work notes/SF work notes/Why Salesforce being Monolith is not bad?.md",
@@ -177,8 +207,6 @@
     "Quick notes/Bookshelf 2023.md",
     "Quick notes/Relog/2. Implementations Completed.md",
     "Quick notes/Relog/1. Notes 📝.md",
-    "Quick notes/Work notes/SF work notes/Databases at salesforce.md",
-    "Quick notes/Work notes/SF work notes",
-    "Quick notes/Work notes/Past work"
+    "Quick notes/Work notes/SF work notes/Databases at salesforce.md"
   ]
 }
