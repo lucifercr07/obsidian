@@ -1,5 +1,8 @@
 [
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
-  "obsidian-reminder-plugin"
+  "obsidian-reminder-plugin",
+  "obsidian-spaced-repetition",
+  "obsidian-day-planner",
+  "dataview"
 ]

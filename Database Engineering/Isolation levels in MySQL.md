@@ -1,3 +1,8 @@
+- #flashcards/Database/MySQL
+	- What are isolation levels in MySQL (in deckA)::`READ_UNCOMMITTED, READ_COMMITTED, REPEATABLE_READ, SERIALIZABLE`
+<!--SR:!2024-05-30,1,230-->
+	- What is `READ_UNCOMMITTED`? (in deckA)::No isolation in this level, no lock is acquired.
+<!--SR:!2024-05-30,1,230-->
 - Ref: https://mydbops.wordpress.com/2018/06/22/back-to-basics-isolation-levels-in-mysql/
 - ![[Pasted image 20230321124012.png]]
 

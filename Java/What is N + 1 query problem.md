@@ -1,0 +1,2 @@
+- https://stackoverflow.com/questions/97197/what-is-the-n1-selects-problem-in-orm-object-relational-mapping
+- Good answer: https://stackoverflow.com/a/39696775/4134429

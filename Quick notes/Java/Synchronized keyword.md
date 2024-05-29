@@ -1,2 +1,0 @@
-- Nice trivia in article: https://medium.com/@anil.java.story/you-dont-know-java-synchronized-keyword-612b176cc2d2
-- It's to be noted that if the `synchronized` keyword is not used on the same object or instance of Class it won't work for locks. Example for that is mentioned in above article.
